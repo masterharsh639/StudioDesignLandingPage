@@ -1,0 +1,10 @@
+.button-css {
+  display: inline-flex;
+  padding: 20px 40px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 60px;
+  background: #2639ed;
+  color: #fff;
+}

@@ -1,0 +1,13 @@
+.premium-heading {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.premium-title {
+    margin-bottom: 4rem;
+}
+
+.premium-para{
+    margin-bottom: 3rem;
+}
