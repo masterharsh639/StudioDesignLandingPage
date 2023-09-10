@@ -1,0 +1,19 @@
+.header-section {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.header-navs {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-logo {
+  color: #000 !important;
+  text-decoration: none !important;
+  font-family:Roboto;
+  font-size: 27.147px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
