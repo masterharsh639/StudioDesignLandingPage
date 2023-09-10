@@ -1,4 +1,5 @@
 import "./App.css";
+import GreatSection from "./Components/GreatSection/GreatSection";
 import HeaderComponent from "./Components/HeaderComponent/HeaderComponent";
 import HeroSection from "./Components/HeroSection/HeroSection";
 import Client from "./Container/Clients/Client";
@@ -10,6 +11,7 @@ function App() {
       <HeaderComponent />
       <HeroSection />
       <Client />
+      <GreatSection />
     </div>
   );
 }
