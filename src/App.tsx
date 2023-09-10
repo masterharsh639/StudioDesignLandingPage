@@ -1,5 +1,7 @@
 import "./App.css";
+import FooterComponent from "./Components/FooterComponent/FooterComponent";
 import GreatSection from "./Components/GreatSection/GreatSection";
+import HappyClient from "./Components/HappyClient/HappyClient";
 import HeaderComponent from "./Components/HeaderComponent/HeaderComponent";
 import HeroSection from "./Components/HeroSection/HeroSection";
 import Client from "./Container/Clients/Client";
@@ -12,6 +14,8 @@ function App() {
       <HeroSection />
       <Client />
       <GreatSection />
+      <HappyClient />
+      <FooterComponent/>
     </div>
   );
 }

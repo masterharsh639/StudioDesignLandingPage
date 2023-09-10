@@ -1,0 +1,9 @@
+.clientList {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.happyClient{
+    text-align: center;
+}

@@ -4,7 +4,7 @@
 
 .p-18 {
   color: #000;
-  font-family: Roboto;
+  font-family: Roboto 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -14,7 +14,7 @@
 
 .p-18-600 {
   color: #000;
-  font-family: Roboto;
+  font-family: Roboto 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -24,7 +24,7 @@
 
 .p-40 {
   color: #000;
-  font-family: Roboto;
+  font-family: Roboto 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 600;
@@ -33,7 +33,7 @@
 
 .p-16-grey {
   color: #565656;
-  font-family:Roboto;
+  font-family:Roboto 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
