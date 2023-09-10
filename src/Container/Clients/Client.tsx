@@ -9,7 +9,7 @@ import GoogleLogo from "../../assest/GoogleLogo.png";
 const Client = () => {
   return (
     <Grid container xs={12} className="client-section page-section">
-      <Grid item sm={5}>
+      <Grid item sm={4}>
         <Premiumheading
           title="Our Client"
           paragraph="Several selected clients, who already believe in our service."
