@@ -8,3 +8,10 @@
   background: #2639ed;
   color: #fff;
 }
+
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .button{
+    justify-content: center;
+  }
+}

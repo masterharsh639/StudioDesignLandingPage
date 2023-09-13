@@ -16,10 +16,10 @@ const HeroSection = () => {
         business services."
         />
         <ButtonComponent title="Contact Me" />
-        <img src={dottedImage} alt="" />
+        <img src={dottedImage} alt="dootedimage" className="dottedImage"/>
       </Grid>
       <Grid item xs={12} md={5} sm={5} xl={5}className="hero-section-image">
-        <img src={herosectionimage} alt="image1"/>
+        <img src={herosectionimage} alt="image1" className="hero-image"/>
       </Grid>
     </Grid>
   );

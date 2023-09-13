@@ -12,14 +12,14 @@ import Premiumheading from "./Container/PremiumHeading/Premiumheading";
 function App() {
   return (
     <div>
-      <HeaderComponent />
+      {/* <HeaderComponent /> */}
       <HeroSection />
       <Client />
       <HowWeCanHelp />
-      <GreatSection />
+      {/* <GreatSection />
       <HappyClient />
       <NewsLetter/>
-      <FooterComponent/>
+      <FooterComponent/> */}
     </div>
   );
 }

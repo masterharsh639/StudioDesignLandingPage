@@ -2,3 +2,20 @@
   display: flex;
   justify-content: space-evenly;
 }
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .dottedImage {
+    display: none;
+  }
+
+  .hero-section-image {
+    display: flex;
+    justify-content: center;
+    width: 300px;
+  }
+
+  .hero-image{
+    width: 300px;
+    margin-top: 2rem;
+  }
+}

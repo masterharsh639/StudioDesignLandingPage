@@ -7,7 +7,7 @@ interface ButtonProps {
 
 const ButtonComponent = ({ title }: ButtonProps) => {
   return (
-    <Grid container xs={12}>
+    <Grid container xs={12} className="button">
       <Grid className="button-css">{title}</Grid>
     </Grid>
   );

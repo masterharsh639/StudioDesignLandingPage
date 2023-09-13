@@ -24,7 +24,7 @@ const HowWeCanHelp = () => {
         />
       </Grid>
       <Grid item sm={8} md={8} xl={8} className="premium-card-section">
-        <img src={reactangle} alt="reactangle" />
+        <img src={reactangle} alt="reactangle" className="rectangle"/>
         <Grid>
           <PremiumCard
             logo={boxSearch}
