@@ -6,6 +6,7 @@ import HeaderComponent from "./Components/HeaderComponent/HeaderComponent";
 import HeroSection from "./Components/HeroSection/HeroSection";
 import HowWeCanHelp from "./Components/HowWeCanHelp/HowWeCanHelp";
 import Client from "./Container/Clients/Client";
+import NewsLetter from "./Container/NewLetter/NewsLetter";
 import Premiumheading from "./Container/PremiumHeading/Premiumheading";
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
       {/* <HowWeCanHelp /> */}
       <GreatSection />
       <HappyClient />
+      <NewsLetter/>
       <FooterComponent/>
     </div>
   );
