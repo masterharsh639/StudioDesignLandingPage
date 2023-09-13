@@ -14,7 +14,7 @@ function App() {
       <HeaderComponent />
       <HeroSection />
       <Client />
-      <HowWeCanHelp />
+      {/* <HowWeCanHelp /> */}
       <GreatSection />
       <HappyClient />
       <FooterComponent/>
