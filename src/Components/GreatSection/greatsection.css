@@ -3,3 +3,17 @@
   flex-direction: row;
   justify-content: space-between;
 }
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .great-section {
+    flex-direction: column;
+  }
+  .great-image {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .greatImage{
+      width: 350px;
+  }
+}

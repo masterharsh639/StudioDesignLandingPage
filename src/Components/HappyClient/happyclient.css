@@ -4,6 +4,18 @@
   justify-content: space-around;
 }
 
-.happyClient{
-    text-align: center;
+.happyClient {
+  text-align: center;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .clientList {
+    flex-direction: column !important;
+    align-items: center;
+  }
+
+  .happyClientImage,
+  .happyClientImage2 {
+    width: 350px;
+  }
 }

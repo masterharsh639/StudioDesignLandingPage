@@ -16,10 +16,10 @@ function App() {
       <HeroSection />
       <Client />
       <HowWeCanHelp />
-      {/* <GreatSection />
+      <GreatSection />
       <HappyClient />
       <NewsLetter/>
-      <FooterComponent/> */}
+      <FooterComponent/>
     </div>
   );
 }

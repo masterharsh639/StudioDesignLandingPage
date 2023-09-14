@@ -13,9 +13,9 @@ const HappyClient = () => {
           paragraph="Several selected clients, who already believe in our service."
         />
       </Grid>
-      <Grid item sm={12} md={12} xl={12} className="clientList">
+      <Grid item xs={12} sm={12} md={12} xl={12} className="clientList">
         <p>
-          <img src={happyClient} alt="happyClient" />
+          <img src={happyClient} alt="happyClient" className="HappyClientImage"/>
         </p>
         <p>
           <Premiumheading
@@ -25,7 +25,7 @@ const HappyClient = () => {
           />
         </p>
         <p>
-          <img src={happyClientImage} alt="" />
+          <img src={happyClientImage} alt="" className="happyClientImage2"/>
         </p>
       </Grid>
     </Grid>

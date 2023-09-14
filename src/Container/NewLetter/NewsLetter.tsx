@@ -20,7 +20,7 @@ const NewsLetter = () => {
               placeholder="Enter your email address.."
               className="input-feild"
             />
-            <Grid>
+            <Grid className="button-field">
               <ButtonComponent title="Contact Now" />
             </Grid>
           </Grid>
